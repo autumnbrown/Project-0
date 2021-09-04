@@ -1,0 +1,3 @@
+/users/guest/a/arbrown7/cmake-build-debug-byu-lab-computers/CMakeFiles/rebuild_cache.dir
+/users/guest/a/arbrown7/cmake-build-debug-byu-lab-computers/CMakeFiles/edit_cache.dir
+/users/guest/a/arbrown7/cmake-build-debug-byu-lab-computers/CMakeFiles/Project_0.dir
